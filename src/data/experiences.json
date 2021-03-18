@@ -1,0 +1,18 @@
+[
+  {
+    "img": "../assets/images/exp1.jpeg",
+    "alt": "Tallinn the City of Merchants and Craftsmen",
+    "name": "Tallinn the City of Merchants and Craftsmen",
+    "description": "It is time to visit one of the oldest cities of Europe. First mentioned in written sources AD 1219. With population less than 1000 people.",
+    "button": "Learn More",
+    "location": "/tour_tallinn"
+  },
+  {
+    "img": "../assets/images/exp2.jpeg",
+    "alt": "Doll Creation with Doll Art Master",
+    "name": "Doll Creation with Doll Art Master",
+    "description": "",
+    "button": "Coming Soon",
+    "location": ""
+  }
+]
